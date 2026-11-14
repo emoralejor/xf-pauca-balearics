@@ -21,6 +21,7 @@ All scripts use paths relative to the repository root; run from the repo root.
 | Fig 4  | scripts/figure4_beast_dated.R       | apulia_2013_mcc.tree |
 | Fig S1 | scripts/figureS1_midpoint.R         | pauca69_ML.treefile, meta.tsv |
 | Fig S2 | scripts/figureS2_ST53_tree.R        | core78_ML.treefile |
+| Fig S3 | scripts/figureS3_mag_placement.R | mag_tree.treefile |
 
 ## Data
 `data/` holds the small processed inputs (masked SNP alignments, trees, metadata,
