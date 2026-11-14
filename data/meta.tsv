@@ -1,34 +1,34 @@
 key	strain	info
 9a5c	9a5c	Citrus, Brazil
 11399	11399	Citrus, Brazil
-32	32	coffee, Brazil
-6c	6c	coffee, Brazil
+32	32	Coffea, Brazil
+6c	6c	Coffea, Brazil
 50080	50080	Citrus, Brazil
 cvc0251	CVC0251	Citrus, Brazil
 cvc0256	CVC0256	Citrus, Brazil
 50066	50066	Citrus limon, Brazil
-cof0324	COF0324	coffee, Brazil
-cof0407	COF0407	coffee, Costa Rica
-3124	3124	coffee, Brazil
-b111	B111	coffee, Brazil
-fb7	Fb7	coffee, Argentina
+cof0324	COF0324	Coffea, Brazil
+cof0407	COF0407	Coffea, Costa Rica
+3124	3124	Coffea, Brazil
+b111	B111	Coffea, Brazil
+fb7	Fb7	Citrus, Argentina
 hib4	Hib4	Hibiscus, Brazil
 j1a12	J1a12	Citrus, Brazil
 pr8x	Pr8x	Prunus domestica, Brazil
 u24d	U24D	Citrus, Brazil
 xrb	XRB	Citrus, Brazil
 ols0478	OLS0478	Nerium oleander, Costa Rica
-cfbp8072	CFBP8072	coffee, Ecuador
+cfbp8072	CFBP8072	Coffea, Ecuador
 apl42	APL42	olive, Italy
 codiro	CoDiRO	olive, Italy
 dedonno	De Donno	olive, Italy
-lsv4709	LSV47.09	coffee, Costa Rica
+lsv4709	LSV47.09	Coffea, Costa Rica
 mentpoly	MentPoly	Polygala myrtifolia, France
 ols0479	OLS0479	Nerium oleander, Costa Rica
-pd7202	PD7202	coffee, Costa Rica
+pd7202	PD7202	Coffea, Costa Rica
 salento1	Salento-1	olive, Italy
 salento2	Salento-2	olive, Italy
-pd7211	PD7211	coffee, Costa Rica
+pd7211	PD7211	Coffea, Costa Rica
 apl12	APL12	olive, Italy
 apl18	APL18	olive, Italy
 apl2	APL2	olive, Italy
@@ -38,7 +38,7 @@ apl37	APL37	olive, Italy
 apl50	APL50	olive, Italy
 apl71	APL71	olive, Italy
 apl9	APL9	olive, Italy
-lsv4733	LSV47.33	coffee, Unknown
+lsv4733	LSV47.33	Coffea, Unknown
 apl57	APL57	olive, Italy
 apl64	APL64	olive, Italy
 apl69	APL69	olive, Italy
@@ -49,15 +49,15 @@ mentoliv	MentOliv	olive, France
 alm4	ALM4	Prunus dulcis, Argentina
 am2angelina	AM2-Angelina	olive, Argentina
 oli17a	OLI17A	olive, Argentina
-cfbp8498	CFBP8498	coffee arabica, Costa Rica
-mag115620328	Mag1_15620328	coffee arabica
-mag110513216	Mag1_10513216	coffee eugenioides, Colombia
-50088	50088	coffee arabica, Brazil
+cfbp8498	CFBP8498	Coffea arabica, Costa Rica
+mag115620328	Mag1_15620328	Coffea arabica
+mag110513216	Mag1_10513216	Coffea eugenioides, Colombia
+50088	50088	Coffea arabica, Brazil
 xf71br	XF71_BR	olive, Brazil
 xf642	XF64.2	olive, Brazil
 raar17ciub7	RAAR17_CiUb7	Citrus sinensis, Brazil
-raar16co13	RAAR16_Co13	coffee arabica, Brazil
-raar15co33	RAAR15_Co33	coffee arabica, Brazil
+raar16co13	RAAR16_Co13	Coffea arabica, Brazil
+raar15co33	RAAR15_Co33	Coffea arabica, Brazil
 xyl1961	XYL1961	Prunus dulcis, Ibiza
 iasxyl15134	IAS-XYL1513-4	Prunus dulcis, Ibiza
 iasxyl1518	IAS-XYL1518	Lavandula angustifolia, Ibiza
@@ -73,16 +73,16 @@ xyl175217	XYL1752/17	Prunus dulcis, Menorca
 xyl196818	XYL1968/18	olive, Menorca
 xf1094	XF1094	Vinca sp, Costa Rica
 xf1110	XF1110	Vinca, Costa Rica
-xf70	XF70	coffee, Costa Rica
-xf1090	XF1090	coffee, Costa Rica
-xf75	XF75	coffee, Costa Rica
-xf72	XF72	coffee, Costa Rica
-xf71	XF71	coffee, Costa Rica
-xf1105	XF1105	coffee, Costa Rica
+xf70	XF70	Coffea, Costa Rica
+xf1090	XF1090	Coffea, Costa Rica
+xf75	XF75	Coffea, Costa Rica
+xf72	XF72	Coffea, Costa Rica
+xf71	XF71	Coffea, Costa Rica
+xf1105	XF1105	Coffea, Costa Rica
 xf68	XF68	Psidium, Costa Rica
-xf1093	XF1093	coffee, Costa Rica
-xf73	XF73	coffee, Costa Rica
-xf74	XF74	coffee, Costa Rica
+xf1093	XF1093	Coffea, Costa Rica
+xf73	XF73	Coffea, Costa Rica
+xf74	XF74	Coffea, Costa Rica
 xf143	XF143	olive, Brazil
 xf2172	XF217-2	olive, Brazil
 xf221	XF221	olive, Brazil

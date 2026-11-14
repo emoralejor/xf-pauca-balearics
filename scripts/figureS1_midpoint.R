@@ -67,8 +67,8 @@ yI  <- range(d$y[d$label %in% linI]); yIB <- range(d$y[d$label %in% ib])
 yII <- range(c(y_st53-h, y_st53+h, d$y[d$label %in% rel]))
 seg <- function(a,b,col) annotate("segment", x=barx, xend=barx, y=a, yend=b, color=col, linewidth=LW)
 lab <- function(a,b,txt,col) annotate("text", x=barx+0.004, y=(a+b)/2, label=txt, color=col, angle=90, size=TS, fontface="bold")
-p <- p + seg(yI[1],yI[2],green)  + lab(yI[1],yI[2],"Lineage I: 9a5c and Brazilian strains",green) +
-         seg(yII[1],yII[2],blue) + lab(yII[1],yII[2],"Lineage II",blue) +
+p <- p + seg(yI[1],yI[2],green)  + lab(yI[1],yI[2],"Lineage I (South American: Brazil–Argentina)",green) +
+         seg(yII[1],yII[2],blue) + lab(yII[1],yII[2],"Lineage II (C. America–Andean coffee)",blue) +
          seg(yIB[1],yIB[2],orange)+ lab(yIB[1],yIB[2],"Ibiza, ST80",orange)
 
 ggsave("figures/FigureS1.pdf", p, width=11.5, height=10, device=cairo_pdf)

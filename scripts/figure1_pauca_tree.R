@@ -70,8 +70,8 @@ yIB <- range(d$y[d$label %in% ib])
 yII <- c(min(d$y[d$label %in% rel])-0.3, yI[1]-0.8)          # sube hasta casi tocar la verde
 seg <- function(a,b,col) annotate("segment", x=barx, xend=barx, y=a, yend=b, color=col, linewidth=LW)
 lab <- function(a,b,txt,col) annotate("text", x=barx+0.004, y=(a+b)/2, label=txt, color=col, angle=90, size=TS, fontface="bold")
-p <- p + seg(yI[1],yI[2],green)  + lab(yI[1],yI[2],"Lineage I: 9a5c and Brazilian strains",green) +
-         seg(yII[1],yII[2],blue) + lab(yII[1],yII[2],"Lineage II",blue) +
+p <- p + seg(yI[1],yI[2],green)  + lab(yI[1],yI[2],"Lineage I (South American: Brazil–Argentina)",green) +
+         seg(yII[1],yII[2],blue) + lab(yII[1],yII[2],"Lineage II (C. America–Andean coffee)",blue) +
          seg(yIB[1],yIB[2],orange)+ lab(yIB[1],yIB[2],"Ibiza, ST80",orange)
 
 xf<-d$x[d$label=="Fillmore"]; yf<-d$y[d$label=="Fillmore"]; xpar<-d$x[d$node==d$parent[d$label=="Fillmore"]]
