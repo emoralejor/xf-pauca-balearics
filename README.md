@@ -17,7 +17,7 @@ All scripts use paths relative to the repository root; run from the repo root.
 |--------|--------|---------------|
 | Fig 1  | scripts/figure1_pauca_tree.R        | pauca69_ML.treefile, meta.tsv, map_coffee_americas.png |
 | Fig 2  | scripts/figure2_ST53_panel.R        | core78.filtered_polymorphic_sites.fasta |
-| Fig 3  | scripts/figure3_introgression_tree.R | bloques32.treefile |
+| Fig 3  | scripts/figure3_tree_fastgear.R | bloques32.treefile, fastgear/ |
 | Fig 4  | scripts/figure4_beast_dated.R       | apulia_2013_mcc.tree |
 | Fig S1 | scripts/figureS1_midpoint.R         | pauca69_ML.treefile, meta.tsv |
 | Fig S2 | scripts/figureS2_ST53_tree.R        | core78_ML.treefile |
